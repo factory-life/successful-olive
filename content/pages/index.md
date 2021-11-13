@@ -7,7 +7,7 @@ sections:
       We are a SEO and Web Design company based in Cape Town, South Africa. We
       can produce websites that are inline with the latest technologies. This
       website is built using Stackbit . We can however build amazing websites
-      using WordPress a
+      using WordPress and all other popular tools on the market.
     actions:
       - label: Learn More
         url: /features
