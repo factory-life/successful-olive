@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: IMG Digital
-    subtitle: We are a SEO and Web Design company based in Cape Town
+    subtitle: >-
+      We are a SEO and Web Design company based in Cape Town, South Africa. We
+      can produce 
     actions:
       - label: Learn More
         url: /features
