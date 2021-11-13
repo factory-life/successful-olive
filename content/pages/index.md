@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: IMG Digital
-    subtitle: 'We are a '
+    subtitle: 'We are a SEO and Web Design '
     actions:
       - label: Learn More
         url: /features
