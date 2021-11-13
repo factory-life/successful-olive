@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       We are a SEO and Web Design company based in Cape Town, South Africa. We
       can produce websites that are inline with the latest technologies. This
-      website is built using Stackbit 
+      website is built using Stackbit . We can however 
     actions:
       - label: Learn More
         url: /features
